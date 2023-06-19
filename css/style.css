@@ -1,0 +1,207 @@
+@import url("https://fonts.googleapis.com/css2?family=Kalam&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap");
+
+/* html progress bar */
+
+.OutBox {
+    width: 350px;
+    height: 15px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.InnerBox {
+    width: 95%;
+    height: 15px;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #1fe6ff, #0d6efd);
+    animation: html 4s ease-in-out forwards;
+}
+
+
+/* css progress bar */
+
+.OutBox2 {
+    width: 350px;
+    height: 15px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.InnerBox2 {
+    width: 90%;
+    height: 15px;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #1fe6ff, #0d6efd);
+    animation: css 4s ease-in-out forwards;
+}
+
+
+/* java progress bar */
+
+.OutBox3 {
+    width: 350px;
+    height: 15px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.InnerBox3 {
+    width: 85%;
+    height: 15px;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #1fe6ff, #0d6efd);
+    animation: java 4s ease-in-out forwards;
+}
+
+
+/* bootstrap progress bar */
+
+.OutBox4 {
+    width: 350px;
+    height: 15px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.InnerBox4 {
+    width: 87%;
+    height: 15px;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #1fe6ff, #0d6efd);
+    animation: bootstrap 4s ease-in-out forwards;
+}
+
+
+/* mysql progress bar  */
+
+.OutBox5 {
+    width: 350px;
+    height: 15px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.InnerBox5 {
+    width: 80%;
+    height: 15px;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #1fe6ff, #0d6efd);
+    animation: sql 4s ease-in-out forwards;
+}
+
+
+/* javascript progress bar  */
+
+.OutBox6 {
+    width: 350px;
+    height: 15px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.InnerBox6 {
+    width: 75%;
+    height: 15px;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #1fe6ff, #0d6efd);
+    animation: javascript 4s ease-in-out forwards;
+}
+
+
+/* php progress bar  */
+
+.OutBox7 {
+    width: 350px;
+    height: 15px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.InnerBox7 {
+    width: 80%;
+    height: 15px;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #1fe6ff, #0d6efd);
+    animation: php 4s ease-in-out forwards;
+}
+
+
+/* laravel progress bar  */
+
+.OutBox8 {
+    width: 350px;
+    height: 15px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.InnerBox8 {
+    width: 75%;
+    height: 15px;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #1fe6ff, #0d6efd);
+    animation: laravel 4s ease-in-out forwards;
+}
+
+@keyframes html {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 83%;
+    }
+}
+
+@keyframes css {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 72%;
+    }
+}
+
+@keyframes java {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 74%;
+    }
+}
+
+@keyframes bootstrap {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 78%;
+    }
+}
+
+@keyframes sql {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 75%;
+    }
+}
+
+@keyframes laravel {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 77%;
+    }
+}
